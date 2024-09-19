@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heracent.github.io/sitemap.html.gz
+Sitemap: https://heracent.github.io/app/sitemap.html.gz
+Sitemap: https://heracent.github.io/assets/sitemap.html.gz
+Sitemap: https://heracent.github.io/css/sitemap.html.gz
+Sitemap: https://heracent.github.io/data/sitemap.html.gz
+Sitemap: https://heracent.github.io/includes/sitemap.html.gz
+Sitemap: https://heracent.github.io/item/sitemap.html.gz
+Sitemap: https://heracent.github.io/src/sitemap.html.gz
